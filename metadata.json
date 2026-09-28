@@ -1,0 +1,6 @@
+{
+  "name": "IT Master",
+  "description": "IT Master – Learn & Repair: Comprehensive IT technician training and troubleshooting guide for Windows, hardware, networking, printers, and CCTV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
